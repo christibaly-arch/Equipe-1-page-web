@@ -1,1 +1,18 @@
-
+: root{
+  --rose-pale: #FF0F5,
+    --rose-clair: #F8B BD0
+  --rose-moyen: #F0692;
+  --rose-vif: #D81B7A;
+  --rose-fonce: #A3125E;
+  --texte:#4A1A2C;
+}
+body#
+margin:0;
+font-family: Arial,sans-serif;
+backgroung-color: var(--rose-pale);
+color: var(--texte);
+line-heigt:1.6;
+}
+header{
+  background-color:var(--rose-fonce);
+  color: #FFFFFF;
